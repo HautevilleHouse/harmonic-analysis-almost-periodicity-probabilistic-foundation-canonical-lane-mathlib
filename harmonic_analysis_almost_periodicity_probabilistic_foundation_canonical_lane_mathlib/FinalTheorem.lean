@@ -1,0 +1,9 @@
+import harmonic_analysis_almost_periodicity_probabilistic_foundation_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace harmonic_analysis_almost_periodicity_probabilistic_foundation_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end harmonic_analysis_almost_periodicity_probabilistic_foundation_canonical_lane_mathlib
+end HautevilleHouse
